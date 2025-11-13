@@ -12,4 +12,5 @@ Strava and Garmin track running mileage, but it would be nice to be able to moni
 # Possible avenues for additional implementation
 
 [`garmindb`](https://github.com/tcgoetz/GarminDB):  package to query garmin connect (had api issues)
+
 [`garminconnect`](https://github.com/cyberjunky/python-garminconnect/tree/master): more limited but successfully able to query recent garmin activities
